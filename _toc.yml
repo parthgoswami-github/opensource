@@ -3,9 +3,8 @@
 
 format: jb-book
 root: intro
-parts:
-  - caption: Introduction to Open Source
-    chapters:
+chapters:
+    - file: objectives
     - file: freesoftware
     - file: fourfreedoms
     - file: closedsource
@@ -13,14 +12,10 @@ parts:
     - file: misconceptions
     - file: values
     - file: opensourcecommunity
-  - caption: Open source Development Models
-    chapters: 
     - file: develmodel
     - file: redhatdevelmodel
     - file: linuxandopensource
     - file: streams
-  - caption: Red Hat in open source
-    chapters: 
     - file: whatredhatdoes
     - file: howredhatdoes
     - file: contributingtocommunities

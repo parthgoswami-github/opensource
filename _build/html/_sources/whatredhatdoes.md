@@ -1,5 +1,5 @@
 <!-- #region -->
-# What do we do? 
+# What does Red Hat do in Open source? 
 
 
 Our open source participation guidelines address topics relating to participation in open source development by Red Hat associates, such as the following:

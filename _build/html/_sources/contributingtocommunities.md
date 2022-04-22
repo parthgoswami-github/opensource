@@ -1,5 +1,5 @@
 <!-- #region -->
-# Communities we contribute to 
+# Communities Red Hat contributes to 
 
 
 We ensure community health for Red Hat-sponsored and stewarded projects with active and participatory involvement that can include infrastructure, project management, communications, outreach, and onboarding

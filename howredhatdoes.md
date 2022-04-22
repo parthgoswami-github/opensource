@@ -1,5 +1,5 @@
 <!-- #region -->
-# How do we do?  
+# How does Red Hat contributes? 
 
 - **Participate:** Red Hat participates in and creates community powered upstream projects. We contribute code, collaborate on content, steward projects, mentor leaders, and sponsor events.
 
